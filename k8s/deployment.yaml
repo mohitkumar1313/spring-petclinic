@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: spring-petclinic
-        image: gcr.io/majestic-hybrid-435221-k7/mohitsalgotra/spring-petclinic-app:latest
+        image: gcr.io/majestic-hybrid-435221-k7/mohitsalgotra/mavenimage:latest
         ports:
         - containerPort: 8080
 ---
